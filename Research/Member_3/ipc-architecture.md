@@ -1,4 +1,4 @@
-# IPC Architecture - Aahil (Member 03)
+# IPC Architecture - Aahil Sheikh (Member 03)
 
 **Project:** PBL-kiri 
 **Research Area:** Inter-Process Communication (IPC)  
